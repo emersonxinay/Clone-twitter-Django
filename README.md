@@ -1,7 +1,5 @@
 # Este es un clon de Twitter
 
-## Este proyecto corresponde al tutorial de youtube: 
-
 #### Para utilizarlo/configurarlo:
 
 1. Clona el repositorio.
