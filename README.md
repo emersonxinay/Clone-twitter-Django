@@ -4,9 +4,9 @@
 
 #### Para utilizarlo/configurarlo:
 
-1. Clona el repositorio o descargalo como zip.
+1. Clona el repositorio.
 
-``` ```
+```git clone git@github.com:emersonxinay/Clone-twitter-Django.git ```
 
 
 1. Crea un ambiente virtual 
