@@ -6,10 +6,10 @@
 
 1. Clona el repositorio o descargalo como zip.
 
-```git clone https://github.com/mundo-python/social_project.git```
+``` ```
 
 
-2. Crea un ambiente virtual 
+1. Crea un ambiente virtual 
 
 ```python -m venv socialenv```
 
@@ -32,3 +32,5 @@
 6. Corre el servidor.
 
 ```python manage.py runserver```
+
+Recuerda verificar tus versiones de Django y Python 
